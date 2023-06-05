@@ -1,0 +1,1 @@
+# Digiwallet for Prestashop8.0.x
